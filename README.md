@@ -13,7 +13,7 @@ A simple, responsive landing page for a veggie seeds sample offer. Visitors can 
 - Offer information and eligibility reminders
 - Lightweight HTML page
 
-## 🚀 Live Demo
+## 🌱 Free Veggie Seeds
 
 [Visit the Live Website](https://free-veggie-seeds.netlify.app/)
 ## 📁 Project Structure
