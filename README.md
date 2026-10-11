@@ -15,10 +15,7 @@ A simple, responsive landing page for a veggie seeds sample offer. Visitors can 
 
 ## 🚀 Live Demo
 
-Add your deployed website URL here:
-
-`*****************
-
+[Visit the Live Website](https://free-veggie-seeds.netlify.app/)
 ## 📁 Project Structure
 
 ```text
